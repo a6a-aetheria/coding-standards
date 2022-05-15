@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Licensed this work
 - Started a changelog
 - Setup devtools
+- Initialized composer

@@ -1,0 +1,17 @@
+{
+    "name": "a6a/coding-standards",
+    "description": "Coding standards for a6a projects.",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "phpcs",
+        "coding standard",
+        "coding-standard"
+    ],
+    "authors": [
+        {
+            "name": "cjw6k",
+            "email": "chris@lot2k.com"
+        }
+    ],
+    "require": {}
+}
