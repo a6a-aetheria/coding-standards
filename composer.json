@@ -1,6 +1,6 @@
 {
     "name": "a6a/coding-standards",
-    "description": "Coding standards for a6a projects.",
+    "description": "Coding standards for PHP_CodeSniffer, used in a6a projects.",
     "license": "BSD-3-Clause",
     "keywords": [
         "phpcodesniffer-standard",
