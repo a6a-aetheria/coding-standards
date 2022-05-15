@@ -11,7 +11,8 @@
     "authors": [
         {
             "name": "cjw6k",
-            "email": "chris@lot2k.com"
+            "email": "chris@lot2k.com",
+            "homepage": "https://cj.w6k.ca/"
         }
     ],
     "require": {
