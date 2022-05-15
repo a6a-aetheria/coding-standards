@@ -2,6 +2,7 @@
     "name": "a6a/coding-standards",
     "description": "Coding standards for PHP_CodeSniffer, used in a6a projects.",
     "license": "BSD-3-Clause",
+    "type": "phpcodesniffer-standard",
     "keywords": [
         "phpcodesniffer-standard",
         "phpcs",
