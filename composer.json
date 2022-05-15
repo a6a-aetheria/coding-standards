@@ -3,6 +3,7 @@
     "description": "Coding standards for a6a projects.",
     "license": "BSD-3-Clause",
     "keywords": [
+        "phpcodesniffer-standard",
         "phpcs",
         "coding standard",
         "coding-standard"
@@ -13,5 +14,15 @@
             "email": "chris@lot2k.com"
         }
     ],
-    "require": {}
+    "require": {
+        "slevomat/coding-standard": "^7.2",
+        "squizlabs/php_codesniffer": "^3.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        },
+        "lock": false,
+        "sort-packages": true
+    }
 }
