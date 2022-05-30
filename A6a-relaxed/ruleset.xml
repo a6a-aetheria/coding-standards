@@ -5,7 +5,7 @@
 
     <description>Relaxed coding standard for a6a projects.</description>
 
-    <rule ref="A6A">
+    <rule ref="A6a">
         <exclude name="SlevomatCodingStandard.TypeHints.DeclareStrictTypes"/>
     </rule>
 
